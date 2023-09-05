@@ -1,0 +1,32 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: black;
+    border: 2px solid red;
+}
+
+h2 {
+    color: blueviolet;
+    border: 5px solid black;
+}
+
+h3 {
+    color: blue;
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
